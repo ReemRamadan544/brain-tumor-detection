@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+*.model
+*.h5
+*.ckpt
+logs/
+models/
+augmented data/
+LICENSE
+README.md
